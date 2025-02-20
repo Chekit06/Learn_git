@@ -9,4 +9,5 @@ Repo created for learning advance git concepts
 -   p     -  pull latest changes
 -   P     -  Push latest commits
 -   n     -  new branch
+- shift+m -  merging feature branch into main branch
 
