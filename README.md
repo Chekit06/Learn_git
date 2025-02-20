@@ -3,5 +3,10 @@ Repo created for learning advance git concepts
 
 
 # LazyGit (Interactive UI to manage git)
--   ? to view all available shortcut keys
--   staging a particular file or using 'a' to stage all
+-   ?     -  to view all available shortcut keys
+-   space -  staging a particular file
+-   a     -  stage all
+-   p     -  pull latest changes
+-   P     -  Push latest commits
+-   n     -  new branch
+
