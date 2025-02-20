@@ -10,5 +10,3 @@ Repo created for learning advance git concepts
 -   P     -  Push latest commits
 -   n     -  new branch
 
-- this branch has some changes that other_branch doesnt have
-
