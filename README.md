@@ -16,4 +16,10 @@ Repo created for learning advance git concepts
 # Wsl in windows with Ubuntu    
 
 # Added dummy yaml to check how staging area useful for commiting particular files rather than bushing everything in single commit.
- 
+
+
+# Branching Strategies
+- long running branches
+- short lived branches (feature branches)
+
+- merge conflicts - changes made in feature branch is diverged from the main branch.
