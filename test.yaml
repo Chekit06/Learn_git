@@ -15,3 +15,5 @@ sale:
     money: true
   pure: future
   iron: atomic
+
+# Hello this message is to check merge conflict
