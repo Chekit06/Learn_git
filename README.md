@@ -10,4 +10,9 @@ Repo created for learning advance git concepts
 -   P     -  Push latest commits
 -   n     -  new branch
 - shift+m -  merging feature branch into main branch
+-   s     -  to stash changes
+-   S     -  View Stash options
 
+# Wsl in windows with Ubuntu    
+
+ 
