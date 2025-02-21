@@ -15,4 +15,5 @@ Repo created for learning advance git concepts
 
 # Wsl in windows with Ubuntu    
 
+# Added dummy yaml to check how staging area useful for commiting particular files rather than bushing everything in single commit.
  
